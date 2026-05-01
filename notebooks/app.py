@@ -6,7 +6,7 @@ import plotly.express as px
 import plotly.graph_objects as go
 
 # Load the cleaned data
-df_us = pd.read_csv('sample_cleaned_data.csv')
+df_us = pd.read_csv('notebooks/sample_cleaned_data.csv')
 
 # convert datetime columns
 df_us['Start_Time'] = pd.to_datetime(df_us['Start_Time'])
