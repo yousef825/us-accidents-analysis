@@ -25,4 +25,4 @@ https://drive.google.com/file/d/1RQhaQ0I_9RFzRkHmVO8RKpB_SktjlmJo/view?usp=shari
  
 
 --- 
-### I used a sample of the dataset bec. it was too large to upload it to GitHub
+### I used a sample of cleaned dataset, because it was too large to upload it.
