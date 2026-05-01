@@ -17,3 +17,12 @@ This project analyze traffic accidents across the US.
 
 ## Dataset
 https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents
+
+
+
+## Cleaned Dataset
+https://drive.google.com/file/d/1RQhaQ0I_9RFzRkHmVO8RKpB_SktjlmJo/view?usp=sharing
+ 
+
+--- 
+### I used a sample of the dataset bec. it was too large to upload it to GitHub
